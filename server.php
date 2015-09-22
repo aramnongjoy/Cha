@@ -1,7 +1,7 @@
 <?php
 
 /**
-	Hello
+	Hello hello
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
